@@ -1,0 +1,7 @@
+C:\Users\Jonathan Djeket\Desktop\Oppgave 3\Oppgave_3_Jotunheimen_hyttetur\Oppgave_3_Jotunheimen_hyttetur\bin\Debug\Oppgave_3_Jotunheimen_hyttetur.exe
+C:\Users\Jonathan Djeket\Desktop\Oppgave 3\Oppgave_3_Jotunheimen_hyttetur\Oppgave_3_Jotunheimen_hyttetur\bin\Debug\Oppgave_3_Jotunheimen_hyttetur.pdb
+C:\Users\Jonathan Djeket\Desktop\Oppgave 3\Oppgave_3_Jotunheimen_hyttetur\Oppgave_3_Jotunheimen_hyttetur\obj\x86\Debug\Hytte.Form1.resources
+C:\Users\Jonathan Djeket\Desktop\Oppgave 3\Oppgave_3_Jotunheimen_hyttetur\Oppgave_3_Jotunheimen_hyttetur\obj\x86\Debug\Hytte.Properties.Resources.resources
+C:\Users\Jonathan Djeket\Desktop\Oppgave 3\Oppgave_3_Jotunheimen_hyttetur\Oppgave_3_Jotunheimen_hyttetur\obj\x86\Debug\Oppgave_3_Jotunheimen_hyttetur.csproj.GenerateResource.Cache
+C:\Users\Jonathan Djeket\Desktop\Oppgave 3\Oppgave_3_Jotunheimen_hyttetur\Oppgave_3_Jotunheimen_hyttetur\obj\x86\Debug\Oppgave_3_Jotunheimen_hyttetur.exe
+C:\Users\Jonathan Djeket\Desktop\Oppgave 3\Oppgave_3_Jotunheimen_hyttetur\Oppgave_3_Jotunheimen_hyttetur\obj\x86\Debug\Oppgave_3_Jotunheimen_hyttetur.pdb

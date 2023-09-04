@@ -1,0 +1,7 @@
+C:\Users\Jonathan Djeket\AppData\Local\Temporary Projects\Veiledning\bin\Debug\Veiledning.exe
+C:\Users\Jonathan Djeket\AppData\Local\Temporary Projects\Veiledning\bin\Debug\Veiledning.pdb
+C:\Users\Jonathan Djeket\AppData\Local\Temporary Projects\Veiledning\obj\x86\Debug\Veiledning.Form1.resources
+C:\Users\Jonathan Djeket\AppData\Local\Temporary Projects\Veiledning\obj\x86\Debug\Veiledning.Properties.Resources.resources
+C:\Users\Jonathan Djeket\AppData\Local\Temporary Projects\Veiledning\obj\x86\Debug\Veiledning.csproj.GenerateResource.Cache
+C:\Users\Jonathan Djeket\AppData\Local\Temporary Projects\Veiledning\obj\x86\Debug\Veiledning.exe
+C:\Users\Jonathan Djeket\AppData\Local\Temporary Projects\Veiledning\obj\x86\Debug\Veiledning.pdb
